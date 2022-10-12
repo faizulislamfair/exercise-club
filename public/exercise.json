@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "Dumble",
+        "img": "https://thumbs.dreamstime.com/b/fitness-workout-equipment-set-modern-dumbbells-th-fitness-workout-equipment-set-modern-dumbbells-113362969.jpg",
+        "time": 110
+    },
+    {
+        "id": "2",
+        "name": "Treadmill",
+        "img": "https://content.jdmagicbox.com/comp/bangalore/q3/080pxx80.xx80.190221135249.g4q3/catalogue/wecare-fitness-and-sports-banashankari-bangalore-gymnasium-equipment-dealers-1freldcjgw.jpg?clr=",
+        "time": 120
+    },
+    {
+        "id": "3",
+        "name": "Exercise Bike",
+        "img": "https://rukminim1.flixcart.com/image/612/612/kz4gh3k0/exercise-bike/s/f/7/cb01-belt-drive-mechanism-with-lcd-display-100-cockatoo-42-5-original-imagb75k7grwygbq.jpeg?q=70",
+        "time": 130
+    },
+    {
+        "id": "4",
+        "name": "Pull Down",
+        "img": "https://5.imimg.com/data5/QY/FT/MY-67695863/high-lat-pulldown-free-weight-500x500.jpg",
+        "time": 140
+    },
+    {
+        "id": "5",
+        "name": "Smith Machine",
+        "img": "https://www.kindpng.com/picc/m/281-2811147_body-solid-series-7-smith-squat-rack-machine.png",
+        "time": 150
+    },
+    {
+        "id": "6",
+        "name": "Power Tower",
+        "img": "https://atlas-content-cdn.pixelsquid.com/assets_v2/273/2732083723620062327/jpeg-600/G03.jpg?modifiedAt=1",
+        "time": 160
+    }
+]

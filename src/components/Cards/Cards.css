@@ -1,0 +1,38 @@
+.main-container {
+    display: grid;
+    grid-template-columns: 5fr 2fr;
+}
+
+.cards-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    margin: 100px 50px;
+}
+
+.exercise-calculation-container {
+    background-color: #ffffff;
+}
+
+.exercise {
+    margin-left: 15px;
+    margin-right: 15px;
+    background-color: #F2F3FB;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+
+
+/* -----------------
+    Media Queries
+------------------*/
+
+/* Mobile Devices */
+
+
+@media only screen and (max-width:688px) {
+    .cards-container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}

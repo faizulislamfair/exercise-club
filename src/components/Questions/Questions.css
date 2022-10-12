@@ -1,0 +1,14 @@
+.questions {
+    margin: 20px;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 20px;
+}
+
+.questions h4 {
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #F2F3FB;
+    padding: 15px;
+    border-radius: 10px;
+}
